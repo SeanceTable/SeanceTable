@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanceTable
 - 👀 I’m interested in utilizing cross-chain transferring.
 - 🌱 I’m currently learning how to use React to create web apps.
-- 📫 How to reach me ...
+- 📫 How to reach me xfer.u@ud.me
 
 
 <!---
